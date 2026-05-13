@@ -1,0 +1,23 @@
+name: CI
+
+on:
+  push:
+    branches: [test, prod]
+
+jobs:
+  reindex:
+    runs-on: ubuntu-latest
+    env:
+      BRANCH: ${{ github.ref_name }}
+    steps:
+      - name: Pull knowledge & reindex on VPS
+        uses: appleboy/ssh-action@v1
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ${{ secrets.VPS_USER }}
+          key: ${{ secrets.VPS_SSH_KEY }}
+          envs: BRANCH
+          script: |
+            cd /opt/portfolio/knowledge/$BRANCH
+            git pull
+            docker compose -f /opt/portfolio/docker-compose.yml exec -T backend-$BRANCH python -m app.reindex
