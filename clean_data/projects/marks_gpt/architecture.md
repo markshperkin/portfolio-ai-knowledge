@@ -16,7 +16,7 @@ A chat message hits `POST /api/chat` and runs this pipeline:
 3. **Rate limiter** — per-IP, in-process.
 4. **Embed the query** — Voyage AI `voyage-3-large`, 1024 dimensions.
 5. **Vector search** — ChromaDB HNSW index, cosine similarity, top-5 chunks.
-6. **Threshold gate** — best score < 0.30 → refuse to answer (no grounded context). ≥ 0.30 → proceed. This is the anti-hallucination guard.
+6. **Threshold gate** — best score < 0.35 → refuse to answer (no grounded context). ≥ 0.35 → proceed. This is the anti-hallucination guard.
 7. **Build the system prompt** — persona + guardrails + the retrieved chunks.
 8. **Stream Claude Haiku** — `claude-haiku-4-5-20251001`, streamed back as SSE events.
 

@@ -23,8 +23,8 @@ This is why the knowledge files don't need YAML frontmatter — the directory la
 ### Retrieval (query time)
 1. Embed the incoming query with the same Voyage model (1024-dim).
 2. ChromaDB HNSW index, cosine similarity, return top-5 chunks.
-3. **Threshold gate:** if the best similarity score is below 0.30, refuse — there's no grounded context, so the bot says it can't answer that rather than guessing.
-4. If it clears 0.30, the chunks go into the system prompt (persona + guardrails + retrieved context) and Claude Haiku generates a grounded, streamed answer.
+3. **Threshold gate:** if the best similarity score is below 0.35, refuse — there's no grounded context, so the bot says it can't answer that rather than guessing.
+4. If it clears 0.35, the chunks go into the system prompt (persona + guardrails + retrieved context) and Claude Haiku generates a grounded, streamed answer.
 5. A `citation` SSE event reports which source documents were used, so answers are traceable back to the corpus.
 
 ### Why the corpus is many small redundant files
@@ -36,7 +36,7 @@ The Voyage free tier rate limit (3 requests/minute) made reindexing slow and fra
 ## Solutions
 - **Rate limit:** batch the embeddings (size 8) with a delay between batches tuned to stay under 3 RPM.
 - **Idempotent reindex:** delete-and-recreate the collection every run, so there's never a partial or stale-on-disk index — the only correct state is "fully rebuilt."
-- **Refusal over hallucination:** the 0.30 threshold gate is the single most important line for a portfolio bot. I'd rather it say "I don't have that" than invent a credential.
+- **Refusal over hallucination:** the 0.35 threshold gate is the single most important line for a portfolio bot. I'd rather it say "I don't have that" than invent a credential.
 
 ## Results
 - A grounded assistant that answers from my real corpus and cites its sources.
