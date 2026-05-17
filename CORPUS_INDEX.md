@@ -4,6 +4,32 @@ This file tracks every source processed into `clean_data/`. Auto-maintained by t
 
 ---
 
+## 2026-05-17 — Processing Run
+
+Added the portfolio project itself — **Mark's GPT**, the RAG chatbot that *is* this portfolio — to `clean_data/projects/marks_gpt/`. Not sourced from `raw_data/`: source material was the three repo READMEs (`portfolio-ai-frontend`, `portfolio-ai-backend`, `portfolio-ai-knowledge`), `portfolio-ai-backend/reindexing.md`, and deployment-pipeline facts carried in project memory. User-supplied context confirmed via Q&A: live & public, ~12h solo build, stack driven by cost + quality + skill-showcase + full-control, and approval to document the real deployment war-stories.
+
+### Projects (1 project → 7 files)
+
+| Source | Type | Destination | Files |
+|--------|------|-------------|-------|
+| 3 repo READMEs + reindexing.md + project memory | Markdown / context | `clean_data/projects/marks_gpt/` | 7 |
+
+Files: `overview.md`, `architecture.md`, `rag_pipeline.md`, `security_and_ux.md`, `deployment.md`, `challenges.md`, `tech_decisions.md`.
+
+### Run Summary
+
+- **Total sources processed:** 1 multi-repo project (no `raw_data/` input — README + memory sourced)
+- **Total files written:** 7
+- **Sections touched:** `projects/`
+- **Notes:**
+  - Destination `clean_data/projects/marks_gpt/` per struct.md (`projects/` = one subdir per project, focused files per topic).
+  - This is a self-referential entry: the corpus now documents the chatbot it feeds.
+  - The 5 deployment war-stories in `challenges.md` (stale ChromaDB singleton, Voyage 3 RPM limit, CI-deploy-order wipe, two-clone VPS layout, drone-ssh `command_timeout`) come from prior-session operational memory, approved by the user for inclusion.
+  - `tech_decisions.md` written as an explicit interview-prep "why X over Y" reference per the project's portfolio purpose.
+  - `raw_data/` untouched; no git actions taken.
+
+---
+
 ## 2026-05-16 — Processing Run
 
 Sections processed: `athletics/`, `profile/` (career_goals), `education/`, `experience/`. Research dir skipped per request. Education PDFs (3 eDiploma certs + 2 official transcripts) intentionally skipped — degree/credential data already captured in the curated education markdown; no semester-by-semester transcript ingested per request.
