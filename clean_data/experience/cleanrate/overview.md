@@ -27,4 +27,4 @@ Delivered a working client-side prototype that generated a valid HPXML document 
 This role was a lesson in operating with zero scaffolding — no onboarding, no deadlines, poor documentation — and still delivering a validated technical result. The business outcome (shutdown) was outside engineering control; the engineering deliverable succeeded.
 
 ## Keywords
-Cleanrate, startup, Software Engineer, HPXML, Home Energy Score, energy efficiency, remote work, self-directed, unpaid, proof of concept, Columbia SC, NREL, prototype
+Cleanrate, startup, Software Engineer, HPXML, Home Energy Score, energy efficiency, remote work, self-directed, unpaid, proof of concept, Columbia SC, NREL, prototype, work experience, professional experience, employment, job, career, software engineering background, work history

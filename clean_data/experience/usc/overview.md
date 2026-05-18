@@ -37,4 +37,4 @@ Supported 3 distinct courses solo across 2 semesters for 100+ students, built a 
 The role only worked because I engineered around its biggest time sink (the grading pipeline) instead of grinding through it manually — that's the same constrained-resource instinct from the student-athlete years, applied to a job.
 
 ## Keywords
-USC, Teaching Assistant, TA, Programming Languages, Artificial Intelligence, Algorithmic Design II, James O'Reilly, Jeremiah Shepherd, graduate student, M.S. funding, international student, mentoring, grading
+USC, Teaching Assistant, TA, Programming Languages, Artificial Intelligence, Algorithmic Design II, James O'Reilly, Jeremiah Shepherd, graduate student, M.S. funding, international student, mentoring, grading, work experience, professional experience, employment, job, career, teaching experience, work history
