@@ -19,7 +19,7 @@ Several APIs were noisy — low-quality data while consuming more calls than nec
 Stakeholders described problems in vague, non-technical terms, and requirements shifted between releases. **Compounding factor:** the AI Director took the stakeholder meetings (I couldn't, due to the 11am Israel / 3am US East Coast gap), so requirements reached me second-hand and further filtered. **Resolution:** translated ambiguous inputs into actionable tasks with the Director. In hindsight, direct stakeholder access would have produced more tailored solutions — the key lesson of the role.
 
 ## 6. Personal Circumstances + Timeline Pressure
-I managed a 5-week international relocation (Israel → US) during an active war, with repeated flight cancellations, while shipping production releases twice a week and working 10–11 hours/day including weekends, often without a stable workspace or routine. **Outcome:** every deliverable shipped on schedule. This combination was the most significant operational challenge of the engagement.
+I managed a 5-week international relocation (US → Israel) during an active war, with repeated flight cancellations, while shipping production releases twice a week and working 10–11 hours/day including weekends, often without a stable workspace or routine. **Outcome:** every deliverable shipped on schedule. This combination was the most significant operational challenge of the engagement.
 
 ## Lessons Learned
 Two stick with me: ground LLMs in verified data instead of trusting their output, and get direct access to stakeholders — second-hand requirements are a quality tax you pay on every release. The second lesson is why I now specifically want Forward Deployed Engineer roles.

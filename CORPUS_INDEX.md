@@ -4,6 +4,34 @@ This file tracks every source processed into `clean_data/`. Auto-maintained by t
 
 ---
 
+## 2026-05-24 — Processing Run
+
+Enriched the `profile/` section after a gap analysis flagged it as the thinnest part of the corpus (only 3 files, no personal/human content). Source material was an interactive interview conducted via the `grill-me` skill — not `raw_data/`. The user was asked one branch at a time across personal background, personality/values, hobbies, military service, and learning workflow; answers were synthesized into 5 new first-person files following struct.md's General Template (section names adapted where Challenges/Solutions/Results don't fit a profile topic).
+
+### Profile (1 interview transcript → 5 files)
+
+| Source | Type | Destination | Files |
+|--------|------|-------------|-------|
+| Interactive interview via `grill-me` | Conversation | `clean_data/profile/` | 5 |
+
+Files: `personal_background.md`, `personality_and_values.md`, `interests_and_hobbies.md`, `military_service.md`, `reading_learning.md`.
+
+### Run Summary
+
+- **Total sources processed:** 1 interview (no `raw_data/` input)
+- **Total files written:** 5
+- **Sections touched:** `profile/`
+- **Notes:**
+  - `technical_skills_summary.md` was intentionally **skipped** per user — tech stack is already documented per-project and per-experience; consolidating it again would be redundant.
+  - `military_service.md` is deliberately light on locations/unit details per user preference; covers the elite-athlete-status duality, communication lessons, and professional carry-over only.
+  - `personal_background.md` introduces context that prior files referenced but never defined: wife (American RN, met at USC first class, married Aug 2025), Bukharian Jewish identity, parents' Soviet-immigrant backgrounds (Uzbekistan + Ukraine, both with master's degrees), Russian as home language, current life in Israel.
+  - `personality_and_values.md` complements `what_sets_him_apart.md` — that file is the interview-positioning highlight reel; this one is the day-to-day "what is Mark like to work with" version, with concrete anecdotes (USC swim-team driver-seat story) and two quotes that drive his worldview.
+  - `interests_and_hobbies.md` fixes the prior impression that the user has no life outside engineering + swimming. Surfaces freediving (20m+ in Eilat), competitive FPS gaming, cooking plov, Israeli/electronic music concerts, and travel.
+  - `reading_learning.md` documents the actual learning workflow (LLM → papers → fundamentals from coursework → LLM gap-fill) and the current focus area (agentic AI / LLM pipelines, with Mark's GPT as the live sandbox).
+  - `raw_data/` untouched; no git actions taken.
+
+---
+
 ## 2026-05-17 — Processing Run
 
 Added the portfolio project itself — **Mark's GPT**, the RAG chatbot that *is* this portfolio — to `clean_data/projects/marks_gpt/`. Not sourced from `raw_data/`: source material was the three repo READMEs (`portfolio-ai-frontend`, `portfolio-ai-backend`, `portfolio-ai-knowledge`), `portfolio-ai-backend/reindexing.md`, and deployment-pipeline facts carried in project memory. User-supplied context confirmed via Q&A: live & public, ~12h solo build, stack driven by cost + quality + skill-showcase + full-control, and approval to document the real deployment war-stories.

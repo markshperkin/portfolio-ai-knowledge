@@ -26,7 +26,7 @@ University of South Carolina (USC), Columbia, SC. College of Engineering & Compu
 ## Timelines
 **B.S.:** started Spring 2020 (age 21, post-military), ended May 2024, ~4 years, 132 credits. Multiple Dean's List semesters (Spring 2020, Spring 2022, Fall 2022, Spring 2023, Fall 2023).
 
-**M.S.:** started Fall 2024, ended August 2025, ~1 year, 30 credits. Funded position (Graduate Fellow / Graduate Assistant). Thesis advisor: Professor Homayoun Valafar.
+**M.S.:** started Fall 2024, ended August 2025, ~1 year, 31 credits. Funded position (Graduate Fellow / Graduate Assistant). Thesis advisor: Professor Homayoun Valafar.
 
 ## Results
 Two CS degrees plus an AI certificate, both earned while carrying a second full-time commitment (D1 athletics, then a TA role), with multiple Dean's List semesters and a published thesis.
