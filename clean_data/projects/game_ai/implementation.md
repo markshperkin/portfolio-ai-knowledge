@@ -136,4 +136,4 @@ This project was the foundation for my Backgammon AI paper. The minimax + alpha-
 
 ## Keywords
 
-Connect Four, minimax, alpha-beta pruning, game tree search, MAX node, MIN node, heuristic evaluation, search depth, branching factor, pattern-based scoring, center control, three-in-a-row, win detection, engine environment visualizer, AI vs random, move ordering, game engine architecture
+Connect Four, minimax, alpha-beta pruning, game tree search, MAX node, MIN node, heuristic evaluation, search depth, branching factor, pattern-based scoring, center control, three-in-a-row, win detection, engine environment visualizer, AI vs random, move ordering, game engine architecture, numpy

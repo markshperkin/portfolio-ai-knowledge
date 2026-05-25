@@ -144,4 +144,4 @@ The 4× compute savings from the funnel was the difference between "run all 84 t
 
 ## Keywords
 
-architecture search, search funnel, three-stage search, fitness function, accuracy vs latency, ResNet18, MobileNet, EfficientNet, bounding box regression, smooth L1 loss, Huber loss, ONNX export, Jetson Nano deployment, latency measurement, TensorRT, edge optimization, CNN backbone, hyperparameter search, NAS
+architecture search, search funnel, three-stage search, fitness function, accuracy vs latency, ResNet18, MobileNet, EfficientNet, bounding box regression, smooth L1 loss, Huber loss, ONNX export, Jetson Nano deployment, latency measurement, TensorRT, edge optimization, CNN backbone, hyperparameter search, NAS, numpy

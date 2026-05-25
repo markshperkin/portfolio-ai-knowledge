@@ -65,4 +65,4 @@ I list these because honest research transparency matters more than inflated cla
 
 ## Keywords
 
-swimming pose estimation, underwater pose estimation, HRNet, HRNet-W32, high resolution network, computer vision, keypoint detection, COCO format, visibility annotations, occlusion handling, swim performance analysis, biomechanics, USC swim team, Mark Shperkin, underwater computer vision, sports analytics
+swimming pose estimation, underwater pose estimation, HRNet, HRNet-W32, high resolution network, computer vision, keypoint detection, COCO format, visibility annotations, occlusion handling, swim performance analysis, biomechanics, USC swim team, Mark Shperkin, underwater computer vision, sports analytics, numpy, pandas

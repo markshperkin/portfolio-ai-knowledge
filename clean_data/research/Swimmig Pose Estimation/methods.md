@@ -122,4 +122,4 @@ This combined approach leverages HRNet's inherent strengths while adapting its t
 
 ## Keywords
 
-methods, HRNet-W32, architecture details, parallel subnetworks, exchange unit, multi-scale fusion, heatmap estimation, MSE loss, 2D Gaussian, residual units, exchange blocks, four stages, data collection, USC swim team, COCO format, visibility annotations, data augmentation, horizontal flipping, rotation, translation, Adam optimizer, learning rate, visibility-weighted loss
+methods, HRNet-W32, architecture details, parallel subnetworks, exchange unit, multi-scale fusion, heatmap estimation, MSE loss, 2D Gaussian, residual units, exchange blocks, four stages, data collection, USC swim team, COCO format, visibility annotations, data augmentation, horizontal flipping, rotation, translation, Adam optimizer, learning rate, visibility-weighted loss, numpy, pandas

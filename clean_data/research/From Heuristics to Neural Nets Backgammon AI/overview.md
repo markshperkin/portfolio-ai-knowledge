@@ -59,4 +59,4 @@ GitHub repo: https://github.com/markshperkin/BackgammonAI-backend
 
 ## Keywords
 
-Backgammon, reinforcement learning, deep reinforcement learning, CSCE 775, USC, Mark Shperkin, TD learning, TD(0), TD(lambda), TD-Gammon, eligibility traces, Monte Carlo, minimax search, alpha-beta pruning, MLP, multilayer perceptron, value function approximation, self-play, stochastic games, value network, Tesauro, Neurogammon
+Backgammon, reinforcement learning, deep reinforcement learning, CSCE 775, USC, Mark Shperkin, TD learning, TD(0), TD(lambda), TD-Gammon, eligibility traces, Monte Carlo, minimax search, alpha-beta pruning, MLP, multilayer perceptron, value function approximation, self-play, stochastic games, value network, Tesauro, Neurogammon, numpy

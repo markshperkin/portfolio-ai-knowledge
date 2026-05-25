@@ -115,4 +115,4 @@ Inference on Jetson uses TensorRT or ONNX Runtime, not bare CUDA. CUDA is for th
 
 ## Keywords
 
-PyTorch, ONNX, CUDA, NVIDIA Jetson Nano, neural architecture search, NAS, ResNet, VGG, MobileNet, EfficientNet, regression head, bounding box, FDDB, IoU, latency benchmarking, edge deployment, TensorRT, ONNX Runtime, hardware acceleration, deployment pipeline
+PyTorch, ONNX, CUDA, NVIDIA Jetson Nano, neural architecture search, NAS, ResNet, VGG, MobileNet, EfficientNet, regression head, bounding box, FDDB, IoU, latency benchmarking, edge deployment, TensorRT, ONNX Runtime, hardware acceleration, deployment pipeline, numpy

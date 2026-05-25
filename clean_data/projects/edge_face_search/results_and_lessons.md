@@ -97,4 +97,4 @@ It also informed my approach to the HAR-STGCN project, where I benchmarked infer
 
 ## Keywords
 
-second place, competition result, ResNet18, 0.0129s latency, 40% IoU, edge ML, NAS results, hardware-aware ML, Jetson Nano benchmarks, bounded search budget, lessons learned, Bayesian optimization, quantization, ONNX TensorRT pipeline, edge deployment engineering
+second place, competition result, ResNet18, 0.0129s latency, 40% IoU, edge ML, NAS results, hardware-aware ML, Jetson Nano benchmarks, bounded search budget, lessons learned, Bayesian optimization, quantization, ONNX TensorRT pipeline, edge deployment engineering, numpy

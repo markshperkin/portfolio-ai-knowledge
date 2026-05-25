@@ -22,4 +22,4 @@ As an international student, USC tuition was too expensive to manage without inc
 Two things: engineer around your worst time sink before it sinks you (the grading pipeline existed because manual grading would have broken the schedule), and do the right thing even when it's uncomfortable (reporting integrity violations to be fair to honest students).
 
 ## Keywords
-USC, TA challenges, time management, academic integrity, cheating, IDE compatibility, VS Code, Eclipse, reinforcement learning, teaching difficulty, financial pressure, international student, grading pipeline
+USC, TA challenges, time management, academic integrity, cheating, IDE compatibility, VS Code, Eclipse, reinforcement learning, teaching difficulty, financial pressure, international student, grading pipeline, numpy, pandas, scikit-learn, sklearn, TensorFlow, tf

@@ -92,4 +92,4 @@ I'm transparent about these limitations because pretending they don't exist woul
 
 ## Keywords
 
-results, final results, leave-one-subject-out, LOSO validation, micro F1, macro F1, mean IoU, stroke count MAE, kick count MAE, per-class F1, confusion matrix, training convergence, baseline comparison, limitations, single-IMU swimming, accelerometer gyroscope, MTHARS results
+results, final results, leave-one-subject-out, LOSO validation, micro F1, macro F1, mean IoU, stroke count MAE, kick count MAE, per-class F1, confusion matrix, training convergence, baseline comparison, limitations, single-IMU swimming, accelerometer gyroscope, MTHARS results, numpy, pandas

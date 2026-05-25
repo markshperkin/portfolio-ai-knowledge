@@ -114,4 +114,4 @@ Some PyTorch operations don't have clean ONNX equivalents. Sticking to standard 
 
 ## Keywords
 
-PyTorch, ONNX, CUDA, NVIDIA Jetson Nano, TensorRT, edge deployment, neural architecture search, NAS, hyperparameter search, ResNet, MobileNet, EfficientNet, FDDB dataset, face detection, bounding box regression, fitness function, accuracy latency tradeoff, staged search, successive halving, model conversion
+PyTorch, ONNX, CUDA, NVIDIA Jetson Nano, TensorRT, edge deployment, neural architecture search, NAS, hyperparameter search, ResNet, MobileNet, EfficientNet, FDDB dataset, face detection, bounding box regression, fitness function, accuracy latency tradeoff, staged search, successive halving, model conversion, numpy

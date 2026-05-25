@@ -115,4 +115,4 @@ A few takeaways:
 
 ## Keywords
 
-experimental results, round robin, 1000 games, baseline agents, random agent, furthest first, closest first, network architecture comparison, V1 V2, training duration, episodes, 4000 10000 35000, learning curve, head to head tournament, TD lambda wins, bias variance tradeoff, Backgammon evaluation
+experimental results, round robin, 1000 games, baseline agents, random agent, furthest first, closest first, network architecture comparison, V1 V2, training duration, episodes, 4000 10000 35000, learning curve, head to head tournament, TD lambda wins, bias variance tradeoff, Backgammon evaluation, numpy

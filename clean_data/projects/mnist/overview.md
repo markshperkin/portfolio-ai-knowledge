@@ -61,4 +61,4 @@ Coursework under **Professor Vignesh Narayanan** at the **University of South Ca
 
 ## Keywords
 
-MNIST, handwritten digit classification, PyTorch, fully connected neural network, MLP, training pipeline, model checkpointing, custom inference, USC, Vignesh Narayanan, Neural Networks course, educational project, Jupyter notebook, foundational ML
+MNIST, handwritten digit classification, PyTorch, fully connected neural network, MLP, training pipeline, model checkpointing, custom inference, USC, Vignesh Narayanan, Neural Networks course, educational project, Jupyter notebook, foundational ML, numpy

@@ -28,4 +28,4 @@ Built RGIS's first automated lead-intelligence system from scratch as sole devel
 The biggest professional lesson: not being in the stakeholder meetings meant second-hand requirements and solutions that were correct but not perfectly tailored. That experience is exactly why I now target Forward Deployed Engineer roles.
 
 ## Keywords
-RGIS, Applied AI Engineer, agentic pipeline, Leads Finder, sole developer, AI transition, supply chain, retail, inventory, remote work, stakeholder communication, Forward Deployed Engineer, production releases, work experience, professional experience, employment, job, career, software engineering background, work history
+RGIS, Applied AI Engineer, agentic pipeline, Leads Finder, sole developer, AI transition, supply chain, retail, inventory, remote work, stakeholder communication, Forward Deployed Engineer, production releases, work experience, professional experience, employment, job, career, software engineering background, work history, FastAPI

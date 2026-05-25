@@ -83,4 +83,4 @@ The architecture's accuracy is strong, but this exhaustive feature-extraction an
 
 ## Keywords
 
-MTHARS, multi-task, architecture, deep learning, anchor-based, SSD, single shot detector, 1D convolution, CNN backbone, selective kernel convolution, SKConv, multi-scale window generator, classification head, segmentation head, non-maximum suppression, NMS, regression head, joint optimization, end-to-end, Duan et al, temporal activity detection, swimming activity recognition
+MTHARS, multi-task, architecture, deep learning, anchor-based, SSD, single shot detector, 1D convolution, CNN backbone, selective kernel convolution, SKConv, multi-scale window generator, classification head, segmentation head, non-maximum suppression, NMS, regression head, joint optimization, end-to-end, Duan et al, temporal activity detection, swimming activity recognition, numpy, pandas

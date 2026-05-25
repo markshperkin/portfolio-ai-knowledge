@@ -44,4 +44,4 @@ A multi-stage sequential pipeline:
 Designing the orchestrator as pure routing with no AI logic was the right call — it's what makes adding future AI services cheap. And grounding the LLM in verified API data, rather than letting it generate freely, was the single highest-leverage decision for quality and cost.
 
 ## Keywords
-RGIS, architecture, Leads Finder, AI-HUB, LangChain, LangGraph, Anthropic, Perplexity, agentic pipeline, orchestrator, React, TypeScript, Python, Docker, Kubernetes, RAG, prompt guardrails, batching, self-refinement loop
+RGIS, architecture, Leads Finder, AI-HUB, LangChain, LangGraph, Anthropic, Perplexity, agentic pipeline, orchestrator, React, TypeScript, Python, Docker, Kubernetes, RAG, prompt guardrails, batching, self-refinement loop, FastAPI

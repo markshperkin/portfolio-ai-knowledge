@@ -82,4 +82,4 @@ I take full responsibility for the project, including the parts that didn't work
 
 ## Keywords
 
-wearable sensor, human activity recognition, HAR, 9-DOF IMU, BNO055, Arduino MKR, ESP32, motion capture, sensor noise, drift, Extended Kalman Filter, EKF, ST-GCN, spatio-temporal graph convolutional network, NTU RGB+D, skeletal data, graph convolution, edge deployment, real-time inference, research pivot, USC, Mark Shperkin
+wearable sensor, human activity recognition, HAR, 9-DOF IMU, BNO055, Arduino MKR, ESP32, motion capture, sensor noise, drift, Extended Kalman Filter, EKF, ST-GCN, spatio-temporal graph convolutional network, NTU RGB+D, skeletal data, graph convolution, edge deployment, real-time inference, research pivot, USC, Mark Shperkin, numpy, pandas

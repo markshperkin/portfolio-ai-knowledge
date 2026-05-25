@@ -47,4 +47,4 @@ The Voyage free tier rate limit (3 requests/minute) made reindexing slow and fra
 The refusal path is worth more than the answer path here. A portfolio bot that confidently makes things up is worse than useless — it's a liability in front of a recruiter. Spending the design effort on the threshold gate and grounding, instead of prompt cleverness, was the right call.
 
 ## Keywords
-RAG, retrieval-augmented generation, ChromaDB, HNSW, cosine similarity, Voyage AI, voyage-3-large, embeddings, 1024-dim, chunking, token overlap, reindex, idempotent, threshold gate, grounding, hallucination, refusal, citations, Claude Haiku, system prompt, vector store, metadata inference
+RAG, retrieval-augmented generation, ChromaDB, HNSW, cosine similarity, Voyage AI, voyage-3-large, embeddings, 1024-dim, chunking, token overlap, reindex, idempotent, threshold gate, grounding, hallucination, refusal, citations, Claude Haiku, system prompt, vector store, metadata inference, FastAPI

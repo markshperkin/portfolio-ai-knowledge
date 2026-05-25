@@ -76,4 +76,4 @@ A few things that ended up mattering more than I expected:
 
 ## Keywords
 
-preprocessing, data pipeline, time alignment, sample index, sliding window, window size, 300 time points, 450 time points, 50% overlap, segment localization, label coordinates, feature-level resolution, down-sampling, mini-batch, shuffling, integer reduction factor, IMU preprocessing, ground-truth alignment
+preprocessing, data pipeline, time alignment, sample index, sliding window, window size, 300 time points, 450 time points, 50% overlap, segment localization, label coordinates, feature-level resolution, down-sampling, mini-batch, shuffling, integer reduction factor, IMU preprocessing, ground-truth alignment, numpy, pandas

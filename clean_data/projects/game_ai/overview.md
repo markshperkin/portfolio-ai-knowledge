@@ -88,4 +88,4 @@ Sole author. Built the game environment, AI agent, heuristic, and visualizer.
 
 ## Keywords
 
-Game AI, Connect Four, minimax, alpha-beta pruning, game tree search, heuristic evaluation, adversarial search, AI agent, Python, USC, AI course, classical AI, two-player games, deterministic games, perfect information games
+Game AI, Connect Four, minimax, alpha-beta pruning, game tree search, heuristic evaluation, adversarial search, AI agent, Python, USC, AI course, classical AI, two-player games, deterministic games, perfect information games, numpy
