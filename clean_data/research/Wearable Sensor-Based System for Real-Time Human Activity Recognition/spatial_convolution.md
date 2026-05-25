@@ -98,4 +98,4 @@ The 1×1 convolution `Wₖ` after the adjacency operation is what learns the act
 
 ## Keywords
 
-spatial convolution, graph convolution, GCN, adaptive adjacency, fixed adjacency, learned adjacency, dynamic adjacency, attention mask, anatomical adjacency, skeleton graph, ST-GCN, A_k B_k C_k, embedded Gaussian, softmax normalization, message passing, graph neural network, joint relationships
+spatial convolution, graph convolution, GCN, adaptive adjacency, fixed adjacency, learned adjacency, dynamic adjacency, attention mask, anatomical adjacency, skeleton graph, ST-GCN, A_k B_k C_k, embedded Gaussian, softmax normalization, message passing, graph neural network, joint relationships, numpy, pandas

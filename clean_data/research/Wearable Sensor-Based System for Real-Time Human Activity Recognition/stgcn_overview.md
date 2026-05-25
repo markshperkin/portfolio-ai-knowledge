@@ -94,4 +94,4 @@ After the hardware failure, ST-GCN was the right pivot for several reasons:
 
 ## Keywords
 
-ST-GCN, spatio-temporal graph convolutional network, skeleton-based action recognition, graph neural network, NTU RGB+D, 3D joint coordinates, adaptive graph convolution, temporal convolution, two-stream architecture, spatial-temporal decoupling, edge deployment, Ghosh et al, Shahroudy et al, IoMT, Internet of Medical Things, Kinect v2, action classification
+ST-GCN, spatio-temporal graph convolutional network, skeleton-based action recognition, graph neural network, NTU RGB+D, 3D joint coordinates, adaptive graph convolution, temporal convolution, two-stream architecture, spatial-temporal decoupling, edge deployment, Ghosh et al, Shahroudy et al, IoMT, Internet of Medical Things, Kinect v2, action classification, numpy, pandas

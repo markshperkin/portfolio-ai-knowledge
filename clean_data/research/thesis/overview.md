@@ -45,4 +45,4 @@ Leave-one-subject-out validation: micro-F₁ of 0.7405 with accelerometer-only, 
 
 ## Keywords
 
-thesis, master's thesis, USC, University of South Carolina, deep learning, multi-task learning, MTHARS, IMU, inertial measurement unit, wearable sensors, competitive swimming, stroke classification, swimming activity recognition, segmentation, single sensor, smartwatch, accelerometer, gyroscope, leave-one-subject-out validation, Mark Shperkin, Homayoun Valafar
+thesis, master's thesis, USC, University of South Carolina, deep learning, multi-task learning, MTHARS, IMU, inertial measurement unit, wearable sensors, competitive swimming, stroke classification, swimming activity recognition, segmentation, single sensor, smartwatch, accelerometer, gyroscope, leave-one-subject-out validation, Mark Shperkin, Homayoun Valafar, numpy, pandas

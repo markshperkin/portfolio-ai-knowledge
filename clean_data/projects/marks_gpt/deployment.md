@@ -51,4 +51,4 @@ The deployment is where almost every real bug lived — stale vector collections
 Self-hosting taught me more than a managed platform would have — every gotcha (stale singleton, deploy ordering, CI timeouts) was a lesson I only got because I owned the whole path. And the simplest integration that works (direct SSH over cross-repo dispatch) is usually the right one when you're the only operator.
 
 ## Keywords
-deployment, CI/CD, GitHub Actions, Docker, multi-stage build, GHCR, container registry, Caddy, reverse proxy, Let's Encrypt, TLS, Hostinger, VPS, self-hosted, docker-compose, volume mounts, test environment, prod environment, SSH deploy, appleboy/ssh-action, drone-ssh, command_timeout, reindex, repository_dispatch, branch-per-environment
+deployment, CI/CD, GitHub Actions, Docker, multi-stage build, GHCR, container registry, Caddy, reverse proxy, Let's Encrypt, TLS, Hostinger, VPS, self-hosted, docker-compose, volume mounts, test environment, prod environment, SSH deploy, appleboy/ssh-action, drone-ssh, command_timeout, reindex, repository_dispatch, branch-per-environment, FastAPI

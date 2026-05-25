@@ -46,4 +46,4 @@ A new production version twice per week throughout the engagement — sustained 
 Building a full agentic system solo, from zero, and shipping it twice a week, taught me to make scalability and grounding decisions early — the orchestrator design and the "verified data over LLM data" rule are what kept quality up while cost and hallucination stayed down. The recurring friction was requirements arriving second-hand; direct stakeholder access would have made the output more precisely tailored.
 
 ## Keywords
-Leads Finder, RGIS, agentic pipeline, lead intelligence, LangChain, LangGraph, Anthropic, Perplexity, sole developer, GenAI, sales intelligence, C-suite, stakeholder validation, production releases, scalable architecture
+Leads Finder, RGIS, agentic pipeline, lead intelligence, LangChain, LangGraph, Anthropic, Perplexity, sole developer, GenAI, sales intelligence, C-suite, stakeholder validation, production releases, scalable architecture, FastAPI

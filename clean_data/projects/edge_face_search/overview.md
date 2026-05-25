@@ -85,4 +85,4 @@ This was a class project (Edge and Neuromorphic Computing at USC, Professor Ramt
 
 ## Keywords
 
-EdgeFaceSearch, neural architecture search, NAS, hyperparameter search, edge deployment, NVIDIA Jetson Nano, face detection, bounding box regression, ResNet18, CNN backbone, FDDB dataset, IoU accuracy, latency optimization, three-stage search, successive halving, USC, Ramtin Zand, ICAS Lab
+EdgeFaceSearch, neural architecture search, NAS, hyperparameter search, edge deployment, NVIDIA Jetson Nano, face detection, bounding box regression, ResNet18, CNN backbone, FDDB dataset, IoU accuracy, latency optimization, three-stage search, successive halving, USC, Ramtin Zand, ICAS Lab, numpy

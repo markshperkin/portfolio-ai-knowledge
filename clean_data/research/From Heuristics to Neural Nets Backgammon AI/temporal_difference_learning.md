@@ -120,4 +120,4 @@ A few things that mattered in practice:
 
 ## Keywords
 
-temporal difference learning, TD(0), TD(lambda), eligibility traces, value network, MLP, multilayer perceptron, board encoding, sigmoid activation, one-hot terminal, gammon, regular win, learning rate, discount factor, epsilon-greedy, self-play, bootstrapping, model-free RL, function approximation, Tesauro
+temporal difference learning, TD(0), TD(lambda), eligibility traces, value network, MLP, multilayer perceptron, board encoding, sigmoid activation, one-hot terminal, gammon, regular win, learning rate, discount factor, epsilon-greedy, self-play, bootstrapping, model-free RL, function approximation, Tesauro, numpy

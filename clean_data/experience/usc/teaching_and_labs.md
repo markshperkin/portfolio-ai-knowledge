@@ -35,4 +35,4 @@ Beyond the grading pipeline, the core of the TA role was teaching: running weekl
 Teaching AI deepened my own understanding of it — explaining MLPs, CNNs, RNNs, Transformers, and RL trade-offs repeatedly, and fielding student questions, reinforced material I'd already studied as a student. The hardest thing to teach (RL intuition) is also the thing I now understand best, precisely because I had to make it land verbally.
 
 ## Keywords
-USC, teaching assistant, lab sessions, mentoring, Java, Python, Artificial Intelligence, A* search, MLP, CNN, RNN, LSTM, Transformers, reinforcement learning, on-policy, off-policy, game theory, algorithmic trade-offs, feedback, whiteboarding
+USC, teaching assistant, lab sessions, mentoring, Java, Python, Artificial Intelligence, A* search, MLP, CNN, RNN, LSTM, Transformers, reinforcement learning, on-policy, off-policy, game theory, algorithmic trade-offs, feedback, whiteboarding, numpy, pandas, scikit-learn, sklearn, TensorFlow, tf

@@ -22,4 +22,4 @@ Frontend: React, TypeScript. The HUB is the central access point; individual AI 
 A warmup project is the right way to enter an unfamiliar production codebase under time pressure — it builds context and ships value at the same time, instead of doing neither while ramping.
 
 ## Keywords
-RGIS, AI-HUB, React, TypeScript, internal tooling, AI translation, AI performance review, UI refresh, service integration, warmup project, frontend
+RGIS, AI-HUB, React, TypeScript, internal tooling, AI translation, AI performance review, UI refresh, service integration, warmup project, frontend, FastAPI

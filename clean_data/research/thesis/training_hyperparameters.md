@@ -67,4 +67,4 @@ If anyone wanted to reproduce this exactly:
 
 ## Keywords
 
-hyperparameters, training configuration, IoU threshold tau, hard negative ratio R, alpha, beta, loss weights, window size, 450 samples, frame reduction, scales, Adam optimizer, learning rate, 1e-3, step decay, batch size 8, 50 epochs, non-maximum suppression, MTHARS training, leave-one-subject-out
+hyperparameters, training configuration, IoU threshold tau, hard negative ratio R, alpha, beta, loss weights, window size, 450 samples, frame reduction, scales, Adam optimizer, learning rate, 1e-3, step decay, batch size 8, 50 epochs, non-maximum suppression, MTHARS training, leave-one-subject-out, numpy, pandas

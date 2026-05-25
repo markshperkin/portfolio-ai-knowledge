@@ -112,4 +112,4 @@ Building a production-ready CIFAR-10 classifier from scratch is more valuable tr
 
 ## Keywords
 
-CustomCNN, VGG-inspired, CIFAR-10, image classification, PyTorch, TensorFlow, conda environment, CUDA, accuracy latency score, Kaggle competition, 32x32 images, batch norm folding, max pooling, ReLU, SGD Adam optimizer, model design, edge inference, custom architecture
+CustomCNN, VGG-inspired, CIFAR-10, image classification, PyTorch, TensorFlow, conda environment, CUDA, accuracy latency score, Kaggle competition, 32x32 images, batch norm folding, max pooling, ReLU, SGD Adam optimizer, model design, edge inference, custom architecture, numpy

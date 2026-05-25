@@ -33,4 +33,4 @@ Grading 200+ weekly code submissions by hand — running each one, testing behav
 The right scope for automation was the run-test-score loop, not the whole job. Leaving the Blackboard pull/upload and the written-work grading manual was a deliberate call — automating those would have cost more to build and maintain than the time it saved. Automate the bottleneck, not everything.
 
 ## Keywords
-USC, automated grading, grading pipeline, Python, Java, Bash, Blackboard, test cases, CSV, rubric, automation, time management, edge case handling, TA
+USC, automated grading, grading pipeline, Python, Java, Bash, Blackboard, test cases, CSV, rubric, automation, time management, edge case handling, TA, numpy, pandas, scikit-learn, sklearn, TensorFlow, tf

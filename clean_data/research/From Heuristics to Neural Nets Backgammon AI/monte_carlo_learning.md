@@ -91,4 +91,4 @@ If I were teaching RL, I'd start with MC for its conceptual clarity, then move t
 
 ## Keywords
 
-Monte Carlo learning, MC method, full episode return, discounted return, self-play, model-free RL, value function, MLP, no bootstrap, high variance, terminal reward, episode-end update, single backward pass, batch update, MC vs TD, Backgammon RL, function approximation
+Monte Carlo learning, MC method, full episode return, discounted return, self-play, model-free RL, value function, MLP, no bootstrap, high variance, terminal reward, episode-end update, single backward pass, batch update, MC vs TD, Backgammon RL, function approximation, numpy

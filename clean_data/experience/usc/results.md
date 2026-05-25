@@ -33,4 +33,4 @@ The TA position funded the M.S. Computer Science degree — it made continued en
 The role produced a clean teaching signal: attendance and feedback measurably moved grades, which is the kind of evidence I trust. And the most valuable personal result was indirect — teaching AI made me better at AI than studying it alone did.
 
 ## Keywords
-USC, TA results, grading efficiency, automated pipeline, student outcomes, lab attendance, mentoring, teaching AI, Java, Python, academic network, academic integrity, M.S. funding, international student
+USC, TA results, grading efficiency, automated pipeline, student outcomes, lab attendance, mentoring, teaching AI, Java, Python, academic network, academic integrity, M.S. funding, international student, numpy, pandas, scikit-learn, sklearn, TensorFlow, tf

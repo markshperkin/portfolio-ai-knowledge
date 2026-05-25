@@ -57,4 +57,4 @@ Built the entire model architecture, training pipeline, and evaluation. Sole own
 
 ## Keywords
 
-CustomCNNforCIFAR-10, CIFAR-10, image classification, custom CNN, VGG-inspired, edge computing, accuracy latency tradeoff, USC, Edge and Neuromorphic Computing, Kaggle competition, third place, 32x32 images, 10-class classification
+CustomCNNforCIFAR-10, CIFAR-10, image classification, custom CNN, VGG-inspired, edge computing, accuracy latency tradeoff, USC, Edge and Neuromorphic Computing, Kaggle competition, third place, 32x32 images, 10-class classification, numpy

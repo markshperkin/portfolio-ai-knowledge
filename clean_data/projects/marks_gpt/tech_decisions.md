@@ -44,4 +44,4 @@ A system that costs near-zero to run, retrieves well, demonstrates real AI-Engin
 For a portfolio, the *reasoning* behind a stack is worth more than the stack. "I used Voyage because retrieval quality is the ceiling on a RAG bot, and Haiku because the model just has to synthesize faithfully over good context" is a far stronger interview answer than a list of technologies. I built this so I could give those answers honestly, because I actually made those calls.
 
 ## Keywords
-technical decisions, tradeoffs, Voyage AI, voyage-3-large, embeddings, Claude Haiku, claude-haiku-4-5, LLM selection, ChromaDB, vector database, HNSW, cosine similarity, Caddy, Let's Encrypt, TLS, Hostinger, VPS, self-hosted, Docker, cost optimization, retrieval quality, full control, skill showcase, interview answers, RAG design
+technical decisions, tradeoffs, Voyage AI, voyage-3-large, embeddings, Claude Haiku, claude-haiku-4-5, LLM selection, ChromaDB, vector database, HNSW, cosine similarity, Caddy, Let's Encrypt, TLS, Hostinger, VPS, self-hosted, Docker, cost optimization, retrieval quality, full control, skill showcase, interview answers, RAG design, FastAPI

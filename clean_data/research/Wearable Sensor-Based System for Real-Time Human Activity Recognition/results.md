@@ -87,4 +87,4 @@ A few honest caveats:
 
 ## Keywords
 
-results, accuracy, validation accuracy, 87.6%, NTU RGB+D, classification accuracy, edge inference, latency benchmarks, throughput, GPU performance, CPU performance, RTX 4070 Super, i7-14700F, Jetson Nano, real-time inference, edge deployment, model efficiency, ST-GCN benchmarks
+results, accuracy, validation accuracy, 87.6%, NTU RGB+D, classification accuracy, edge inference, latency benchmarks, throughput, GPU performance, CPU performance, RTX 4070 Super, i7-14700F, Jetson Nano, real-time inference, edge deployment, model efficiency, ST-GCN benchmarks, numpy, pandas

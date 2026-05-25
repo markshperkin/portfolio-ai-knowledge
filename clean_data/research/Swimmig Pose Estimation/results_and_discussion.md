@@ -109,4 +109,4 @@ The ML side is solvable. The bottleneck is data — collecting, annotating, and 
 
 ## Keywords
 
-results, HRNet performance, pose estimation results, dataset size effect, 84 frames vs 411 frames, generalization, overfitting, confidence scores, distance errors, pixel accuracy, validation testing limitation, qualitative evaluation, augmentation effect, future work, dataset expansion, transfer learning, swimming performance analysis
+results, HRNet performance, pose estimation results, dataset size effect, 84 frames vs 411 frames, generalization, overfitting, confidence scores, distance errors, pixel accuracy, validation testing limitation, qualitative evaluation, augmentation effect, future work, dataset expansion, transfer learning, swimming performance analysis, numpy, pandas

@@ -104,4 +104,4 @@ MNIST was a foundational project, in the literal sense — it laid the foundatio
 
 ## Keywords
 
-MNIST implementation, MLP, fully connected network, ReLU activation, softmax, SGD optimizer, Adam optimizer, cross-entropy loss, PyTorch training loop, Torchvision, model checkpointing, custom inference, PIL image preprocessing, validation curves, overfitting, foundational pipeline
+MNIST implementation, MLP, fully connected network, ReLU activation, softmax, SGD optimizer, Adam optimizer, cross-entropy loss, PyTorch training loop, Torchvision, model checkpointing, custom inference, PIL image preprocessing, validation curves, overfitting, foundational pipeline, numpy

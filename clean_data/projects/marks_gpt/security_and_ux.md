@@ -47,4 +47,4 @@ Push every guard in front of the expensive call: slash-command short-circuit fir
 Ordering the pipeline by cost was the key insight: the cheapest checks (commands, regex) run first, the expensive ones (embedding, generation) run last and only if everything before passed. And for a portfolio, a distinctive UI does real work — people remember the terminal that talks back.
 
 ## Keywords
-security, abuse classifier, jailbreak detection, prompt injection, rate limiting, per-IP, HMAC-SHA256, IP anonymization, SQLite, aiosqlite, cost control, grounded refusal, threshold gate, terminal UI, CLI aesthetic, JetBrains Mono, slash commands, Easter eggs, whoami, sudo hire-mark, cat resume.pdf, typewriter, prefers-reduced-motion, UX
+security, abuse classifier, jailbreak detection, prompt injection, rate limiting, per-IP, HMAC-SHA256, IP anonymization, SQLite, aiosqlite, cost control, grounded refusal, threshold gate, terminal UI, CLI aesthetic, JetBrains Mono, slash commands, Easter eggs, whoami, sudo hire-mark, cat resume.pdf, typewriter, prefers-reduced-motion, UX, FastAPI
