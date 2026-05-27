@@ -9,7 +9,7 @@ I'm targeting AI Engineer, Algorithm Developer/Engineer, and Forward Deployed En
 - Algorithm Developer / Algorithm Engineer
 - Forward Deployed Engineer (FDE)
 
-**Why FDE specifically:** My RGIS experience taught me this directly. I wasn't in the stakeholder meetings, so I received requirements second-hand. The result was solutions that were technically correct but not precisely tailored to what the client actually needed. FDE permanently solves that — it puts the engineer directly at the client interface. The appeal is the combination of AI/engineering depth with client proximity and product breadth. I want to own the full product lifecycle *and* understand exactly what the client needs, from the source, not filtered.
+**Why FDE specifically:** My RGIS experience pointed me there. I implemented every requirement in full on a twice-weekly release cadence — the iteration loop was tight. What was missing was the direct line to the stakeholders themselves: requirements came through my manager, and I never presented the work back to the people it was for. Building is half the job; showing it and absorbing the reaction firsthand is the other half. FDE puts the engineer on both sides of that conversation, which is exactly where I want to be — even if it means a 3am meeting. The appeal is the combination of AI/engineering depth with client proximity and product breadth. I want to own the full product lifecycle *and* be the one presenting the work to the client, from the source, not filtered.
 
 ## Target Company
 - **Size:** Preference for enterprise, for large-scale impact — but genuinely open to mid-size and startups where individual impact is just as high.
@@ -35,7 +35,7 @@ Not a narrow specialty — the sweet spot is where these intersect: production A
 
 ## What I Avoid
 - **Regular weekend work.** Weekends are protected time for family (my wife). Weekday overtime is fine; weekends are a firm boundary.
-- **Indirect client communication.** Learned at RGIS that second-hand requirements produce worse outcomes. I want direct access to stakeholders.
+- **Indirect client communication.** At RGIS the work shipped, but I was one layer removed from the stakeholders on both intake and demo. I want direct access — attending the meetings, presenting my own solutions, hearing the reaction unfiltered. Whatever the hour.
 
 ## 5-Year Vision
 Two paths, both serious:

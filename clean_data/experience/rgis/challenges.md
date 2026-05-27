@@ -16,13 +16,13 @@ The pipeline included a loop where an LLM evaluated output quality and re-trigge
 Several APIs were noisy — low-quality data while consuming more calls than necessary, driving up cost and latency. **Resolution:** identified and fixed the offending integrations, and tuned LLM batch sizes (companies per LLM call) by testing different sizes and observing quality, which cut per-company LLM cost.
 
 ## 5. Ambiguous, Second-Hand Requirements
-Stakeholders described problems in vague, non-technical terms, and requirements shifted between releases. **Compounding factor:** the AI Director took the stakeholder meetings (I couldn't, due to the 11am Israel / 3am US East Coast gap), so requirements reached me second-hand and further filtered. **Resolution:** translated ambiguous inputs into actionable tasks with the Director. In hindsight, direct stakeholder access would have produced more tailored solutions — the key lesson of the role.
+Stakeholders described problems in vague, non-technical terms, and requirements shifted between releases. The AI Director took the stakeholder meetings (11am Israel / 3am US East Coast), so requirements reached me through him rather than from the source. **Resolution:** turned the vague inputs into concrete specs with the Director and implemented them in full, shipping twice a week. The real gap wasn't iteration speed — that loop was tight — it was the showcase side: I never presented my work directly to the stakeholders, and a relayed demo loses nuance the same way relayed requirements do. The lesson: attending every stakeholder meeting, even at 3am, is non-negotiable. Communication is the work.
 
 ## 6. Personal Circumstances + Timeline Pressure
 I managed a 5-week international relocation (US → Israel) during an active war, with repeated flight cancellations, while shipping production releases twice a week and working 10–11 hours/day including weekends, often without a stable workspace or routine. **Outcome:** every deliverable shipped on schedule. This combination was the most significant operational challenge of the engagement.
 
 ## Lessons Learned
-Two stick with me: ground LLMs in verified data instead of trusting their output, and get direct access to stakeholders — second-hand requirements are a quality tax you pay on every release. The second lesson is why I now specifically want Forward Deployed Engineer roles.
+Two stick with me: ground LLMs in verified data instead of trusting their output, and sit directly across from the stakeholders — on both sides of the loop. Requirements heard secondhand can still be built fully; the harder loss is on the return trip, when you don't get to show your own work and hear the reaction firsthand. That's the lesson driving me toward Forward Deployed Engineer roles.
 
 ## Keywords
 RGIS, challenges, API normalization, LLM hallucination, prompt guardrails, self-refinement loop, latency, cost optimization, batch size tuning, ambiguous requirements, second-hand requirements, relocation, war, production pressure, Forward Deployed Engineer
