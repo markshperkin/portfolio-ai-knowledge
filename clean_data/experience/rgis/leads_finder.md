@@ -43,7 +43,7 @@ A new production version twice per week throughout the engagement — sustained 
 - ~40–60 qualified leads produced per run.
 
 ## Lessons Learned
-Building a full agentic system solo, from zero, and shipping it twice a week, taught me to make scalability and grounding decisions early — the orchestrator design and the "verified data over LLM data" rule are what kept quality up while cost and hallucination stayed down. The recurring friction was requirements arriving second-hand; direct stakeholder access would have made the output more precisely tailored.
+Building a full agentic system solo, from zero, and shipping it twice a week, taught me to make scalability and grounding decisions early — the orchestrator design and the "verified data over LLM data" rule are what kept quality up while cost and hallucination stayed down. Iteration was fast — twice-weekly releases against fully implemented specs — but the friction was on the communication side: requirements came through my manager and I never presented results directly to stakeholders. Closing that loop in person is where I want to operate next.
 
 ## Keywords
 Leads Finder, RGIS, agentic pipeline, lead intelligence, LangChain, LangGraph, Anthropic, Perplexity, sole developer, GenAI, sales intelligence, C-suite, stakeholder validation, production releases, scalable architecture, FastAPI
