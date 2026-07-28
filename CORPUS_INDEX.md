@@ -2,6 +2,75 @@
 
 This file tracks every source processed into `clean_data/`. Auto-maintained by the `populate-knowledge` skill — each new processing run appends an entry at the top.
 
+Layout spec: `raw_data/struct.md`.
+
+---
+
+## Current Corpus — 129 files (as of 2026-07-28)
+
+| Section | Files | Contents |
+|---|---|---|
+| `projects/` | 50 | 14 projects, one subdir each |
+| `research/` | 44 | 4 papers authored by Mark (thesis + 3) |
+| `experience/` | 14 | rgis (6), usc (5), cleanrate (3) |
+| `profile/` | 8 | background, personality, goals, hobbies, military, learning |
+| `education/` | 7 | degrees, coursework, projects, challenges, results |
+| `athletics/` | 6 | competitive swimming career and its carry-over |
+
+### Projects (50 files across 14 subdirs)
+
+| Project | Files | What it is |
+|---|---|---|
+| `agentic_investment_firm/` | 9 | Multi-agent LLM paper-trading firm — take-home, passed |
+| `marks_gpt/` | 7 | This portfolio's own RAG chatbot (self-referential) |
+| `edge_face_search/` | 5 | Neural architecture search for Jetson Nano |
+| `labeling_software/` | 5 | Annotation tooling |
+| `titanic_survival/` | 5 | PyTorch MLP vs XGBoost — take-home, passed |
+| `fancybear/` | 3 | USC capstone, 5-person team |
+| `camerax_app/` · `custom_cnn_cifar10/` · `game_ai/` · `location/` · `mini_paint/` · `mnist/` · `sensor_game/` · `shesh_besh/` | 2 each | Smaller course and Android projects |
+
+### Research (44 files across 4 subdirs)
+
+| Paper | Files |
+|---|---|
+| `thesis/` — Multi-Task Deep Learning for Segmenting and Classifying Competitive Swimming Activities Using a Single IMU | 23 |
+| `From Heuristics to Neural Nets Backgammon AI/` | 8 |
+| `Wearable Sensor-Based System for Real-Time Human Activity Recognition/` | 8 |
+| `Swimmig Pose Estimation/` | 5 |
+
+### Not yet populated
+
+`skills/`, `stories/`, `resume/`, `misc/`, and `research/paper_notes/` are defined in `struct.md` but have no files yet.
+
+---
+
+## 2026-07-28 — Processing Run
+
+Added two **timed take-home assessment** projects to `clean_data/projects/`, both sourced from public GitHub repos (shallow-cloned to a temp dir, read, deleted). Not from `raw_data/`. Both assessments **passed and advanced Mark to the next interview round** — that outcome is stated in each project's overview and challenges/decisions files.
+
+### Projects (2 repos → 14 files)
+
+| Source | Type | Destination | Files |
+|--------|------|-------------|-------|
+| https://github.com/markshperkin/agentic-investment-firm | GitHub repo (README, 7 ADRs, architecture/PRD/runbook/eval docs, ~60 source files) | `clean_data/projects/agentic_investment_firm/` | 9 |
+| https://github.com/markshperkin/titanic-survival-classification | GitHub repo (README w/ full report, src/mlp/xgb packages, Streamlit app) | `clean_data/projects/titanic_survival/` | 5 |
+
+Agentic files: `overview.md`, `architecture.md`, `agents_and_pipeline.md`, `rag_and_grounding.md`, `guardrails_and_risk.md`, `hitl_and_state.md`, `observability_and_eval.md`, `tech_decisions.md`, `challenges.md` (9).
+Titanic files: `overview.md`, `feature_engineering.md`, `models_and_training.md`, `results_and_explainability.md`, `tech_decisions.md` (5).
+
+### Run Summary
+
+- **Total sources processed:** 2 GitHub repos (no `raw_data/` input)
+- **Total files written:** 14
+- **Sections touched:** `projects/`
+- **Notes:**
+  - **Company names scrubbed per user instruction.** Both repos name the hiring company in text (`titanic/README.md` — ELTA data-scientist assignment; `agentic/docs/prd.md` — Cato Networks agentic-AI home task). Neither name appears anywhere in `clean_data/`; both are described as anonymous timed take-homes. The *derived* brief content was kept, since it's generic engineering framing: the five ranked evaluation criteria (multi-agent design, production readiness, RAG groundedness, eval rigor, code quality), the HITL "graph state persists across the wait" requirement, and the "replay a trade from the trace alone" requirement.
+  - **Time windows per user:** titanic = one-day window; agentic = 3–4 day window. The repo's ADR-001 "3–4 day build" line is consistent with the latter; the user's opening "about a day" was clarified to apply to the titanic task.
+  - Agentic split 9 ways because the source is unusually deep for a take-home — a full README, 7 ADRs, a superseded-decision write-up, architecture/PRD/runbook/eval docs, plus ~60 backend source files. Compressing that into 4–5 files would have lost the guardrail, HITL, and eval detail that is the whole point of the project.
+  - `tech_decisions.md` in both projects is written as an explicit interview-prep "why X over Y" reference — these are interview artifacts, so the defense of each trade-off is the reusable part.
+  - Numbers, config values, and quoted metrics are taken verbatim from the repos (eval report, README results tables, `config.py`, `best_config.json`); nothing was estimated.
+  - Temp clones deleted; `raw_data/` untouched; no git actions taken.
+
 ---
 
 ## 2026-05-24 — Processing Run
